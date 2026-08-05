@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sophietje.github.io/fm-meets-ai
+  baseUrl: www.sophielathouwers.nl/fm-meets-ai
   ignorePatterns:
     - private
     - templates

@@ -14,3 +14,5 @@ My intention is to get an idea of what has been tried and what questions are sti
 - LLMs
 - Agent(s) / agentic frameworks
 - Bias
+
+If you have any relevant work to share, do let me know via an [issue](https://github.com/Sophietje/FM-meets-AI/issues) or email :)

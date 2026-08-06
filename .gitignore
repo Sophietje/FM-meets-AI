@@ -13,3 +13,5 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 content/Templates/
+content/Categories.md
+content/Topics to look into.md

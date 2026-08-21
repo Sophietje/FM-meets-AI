@@ -3,7 +3,7 @@ tags:
 Publication:
   - https://arxiv.org/pdf/2406.11563
   - https://doi.org/10.1007/978-3-031-75387-9_11
-Note created on: 2026-08-21
+created: 2026-08-21
 ---
 Introduces the concept of Intersymbolic AI, which is the combination of symbolic AI with subsymbolic AI. For example:
 - Graph neural networks combined with symbolic proof to automate higher-order logic provers

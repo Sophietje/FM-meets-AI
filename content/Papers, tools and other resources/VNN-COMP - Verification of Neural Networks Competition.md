@@ -10,7 +10,7 @@ Publication:
   - https://vnn-comp.github.io/#aaai2026
 Repository:
   - https://github.com/VNN-COMP/vnncomp2026_benchmarks
-Note created on: 2026-08-06
+created: 2026-08-06
 ---
 Competition for neural network verification
 
